@@ -1,4 +1,5 @@
-﻿using EstudoCriptografia.Extensions;
+﻿using Cryptographer;
+using EstudoCriptografia.Extensions;
 using System.Collections.Generic;
 
 namespace EstudoCriptografia.Models
@@ -10,11 +11,11 @@ namespace EstudoCriptografia.Models
             ListInnerViewModel = new List<InnerViewModel>();
         }
 
-        [EncryptedBuddy]
+        [EncryptedOnView]
         public string Id { get; set; }
         public string Nome { get; set; }
 
-        [EncryptedBuddy]
+        [EncryptedOnView]
         public IEnumerable<InnerViewModel> ListInnerViewModel { get; set; }
     }
 }

@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoCriptografia", "EstudoCriptografia\EstudoCriptografia.csproj", "{5040CC5C-F93D-48D3-950F-C63B6DDDCDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoCriptografia.Teste", "EstudoCriptografia.Teste\EstudoCriptografia.Teste.csproj", "{EAED3365-185C-4009-96E4-81D6F955B5DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B20A7D19-CD96-4A20-84BD-51ADB64B2A2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5040CC5C-F93D-48D3-950F-C63B6DDDCDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5040CC5C-F93D-48D3-950F-C63B6DDDCDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5040CC5C-F93D-48D3-950F-C63B6DDDCDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAED3365-185C-4009-96E4-81D6F955B5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAED3365-185C-4009-96E4-81D6F955B5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAED3365-185C-4009-96E4-81D6F955B5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAED3365-185C-4009-96E4-81D6F955B5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20A7D19-CD96-4A20-84BD-51ADB64B2A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20A7D19-CD96-4A20-84BD-51ADB64B2A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20A7D19-CD96-4A20-84BD-51ADB64B2A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20A7D19-CD96-4A20-84BD-51ADB64B2A2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

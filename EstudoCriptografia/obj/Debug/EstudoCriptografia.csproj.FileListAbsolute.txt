@@ -40,3 +40,47 @@ C:\Users\oluis\Desktop\Projetos\EstudoCriptografia\EstudoCriptografia\EstudoCrip
 C:\Users\oluis\Desktop\Projetos\EstudoCriptografia\EstudoCriptografia\EstudoCriptografia\obj\Debug\EstudoCriptografia.csproj.CoreCompileInputs.cache
 C:\Users\oluis\Desktop\Projetos\EstudoCriptografia\EstudoCriptografia\EstudoCriptografia\obj\Debug\EstudoCriptografia.dll
 C:\Users\oluis\Desktop\Projetos\EstudoCriptografia\EstudoCriptografia\EstudoCriptografia\obj\Debug\EstudoCriptografia.pdb
+C:\GIT Projetos\cryptographer\EstudoCriptografia\obj\Debug\EstudoCriptografia.csprojResolveAssemblyReference.cache
+C:\GIT Projetos\cryptographer\EstudoCriptografia\obj\Debug\EstudoCriptografia.csproj.CoreCompileInputs.cache
+C:\GIT Projetos\cryptographer\EstudoCriptografia\obj\Debug\EstudoCriptografia.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\obj\Debug\EstudoCriptografia.pdb
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\ApplicationInsights.config
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\EstudoCriptografia.dll.config
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\EstudoCriptografia.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\EstudoCriptografia.pdb
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Antlr3.Runtime.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.DependencyCollector.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.Web.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.WindowsServer.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.ApplicationInsights.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Newtonsoft.Json.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Helpers.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Mvc.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Optimization.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Razor.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.WebPages.Deployment.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.WebPages.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.WebPages.Razor.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\WebGrease.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Helpers.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Mvc.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Optimization.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.Razor.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.WebPages.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.WebPages.Deployment.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\System.Web.WebPages.Razor.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Antlr3.Runtime.pdb
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Newtonsoft.Json.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.ApplicationInsights.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.DependencyCollector.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.WindowsServer.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Microsoft.AI.Web.xml
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Core.dll
+C:\GIT Projetos\cryptographer\EstudoCriptografia\bin\Core.pdb

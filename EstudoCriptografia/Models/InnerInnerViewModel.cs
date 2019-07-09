@@ -1,10 +1,10 @@
-﻿using EstudoCriptografia.Extensions;
+﻿using Cryptographer;
 
 namespace EstudoCriptografia.Models
 {
     public class InnerInnerViewModel
     {
-        [EncryptedBuddy]
+        [EncryptedOnView]
         public string Id { get; set; }
     }
 }

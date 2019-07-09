@@ -23,7 +23,11 @@ namespace EstudoCriptografia.Controllers
                         {
                             new InnerInnerViewModel
                             {
-                                 Id = "TesteInner"
+                                 Id = "5"
+                            },
+                            new InnerInnerViewModel
+                            {
+                                 Id = "5"
                             }
                         }
                     }
@@ -31,6 +35,36 @@ namespace EstudoCriptografia.Controllers
             };
 
             return View(vm);
+        }
+
+        [EncryptedActionParameter]
+        public JsonResult JSon()
+        {
+            var vm = new ViewModel
+            {
+                Id = "5",
+                Nome = "Teste",
+                ListInnerViewModel = new List<InnerViewModel>()
+                {
+                    new InnerViewModel
+                    {
+                        Nome = "TesteInner",
+                        ListInnerInner = new List<InnerInnerViewModel>()
+                        {
+                            new InnerInnerViewModel
+                            {
+                                 Id = "5"
+                            },
+                            new InnerInnerViewModel
+                            {
+                                 Id = "5"
+                            }
+                        }
+                    }
+                }
+            };
+
+            return Json(vm, JsonRequestBehavior.AllowGet);
         }
 
         public ActionResult About()
