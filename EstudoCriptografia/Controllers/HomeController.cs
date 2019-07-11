@@ -67,6 +67,18 @@ namespace EstudoCriptografia.Controllers
             return Json(vm, JsonRequestBehavior.AllowGet);
         }
 
+        [EncryptedActionParameter]
+        public JsonResult JSonTesteLista()
+        {
+            var vm = new List<ViewModel>
+            {
+                new ViewModel { Id = "5", Nome = "Teste" },
+                new ViewModel { Id = "5", Nome = "Teste" }
+            };
+
+            return Json(vm, JsonRequestBehavior.AllowGet);
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

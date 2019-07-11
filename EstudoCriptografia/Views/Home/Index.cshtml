@@ -14,13 +14,15 @@
     <div class="col-sm-12">
         <button id="btnTesteJson" class="btn btn-primary">Teste JSon</button>
     </div>
+    <div class="col-sm-12">
+        <button id="btnTesteJsonList" class="btn btn-primary">Teste Lista</button>
+    </div>
 </div>
 
 <script>
 
     $(document).ready(function () {
         $('#btnTesteJson').on('click', function () {
-
             $.ajax({
                 url: '@Url.Action("JSon")',
                 type: 'GET',
@@ -28,8 +30,16 @@
                     debugger
                 }
             });
+        });
 
-
+        $('#btnTesteJsonList').on('click', function () {
+            $.ajax({
+                url: '@Url.Action("JSonTesteLista")',
+                type: 'GET',
+                success: function (data) {
+                    debugger
+                }
+            });
         });
     });
 
